@@ -1,5 +1,6 @@
 integrationTestCase\ToLaunchMaybelin_Test.class
 integrationTestCase\ToLaunchMamaEarth_Test.class
+systemTestCase\TC_Demo_parame.class
 integrationTestCase\ToLaunchPurple_Test.class
 smokeTestCase\Demo.class
 smokeTestCase\ToLaunchAjio_Test.class
