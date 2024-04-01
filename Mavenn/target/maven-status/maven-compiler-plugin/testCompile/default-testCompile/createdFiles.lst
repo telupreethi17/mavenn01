@@ -1,0 +1,6 @@
+integrationTestCase\ToLaunchMaybelin_Test.class
+integrationTestCase\ToLaunchMamaEarth_Test.class
+integrationTestCase\ToLaunchPurple_Test.class
+smokeTestCase\Demo.class
+smokeTestCase\ToLaunchAjio_Test.class
+smokeTestCase\ToLaunchFlipkart_Test.class

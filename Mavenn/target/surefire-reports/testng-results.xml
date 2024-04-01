@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-21T16:40:24 IST" name="Surefire suite" finished-at="2024-03-21T16:41:53 IST" duration-ms="89779">
+    <groups>
+    </groups>
+    <test started-at="2024-03-21T16:40:24 IST" name="Surefire test" finished-at="2024-03-21T16:41:53 IST" duration-ms="89779">
+      <class name="integrationTestCase.ToLaunchMamaEarth_Test">
+        <test-method signature="LaunchMamaEarth()[pri:0, instance:integrationTestCase.ToLaunchMamaEarth_Test@64c87930]" started-at="2024-03-21T16:40:24 IST" name="LaunchMamaEarth" finished-at="2024-03-21T16:40:46 IST" duration-ms="22145" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchMamaEarth -->
+      </class> <!-- integrationTestCase.ToLaunchMamaEarth_Test -->
+      <class name="smokeTestCase.ToLaunchFlipkart_Test">
+        <test-method signature="LaunchFlipkart()[pri:0, instance:smokeTestCase.ToLaunchFlipkart_Test@75f9eccc]" started-at="2024-03-21T16:41:37 IST" name="LaunchFlipkart" finished-at="2024-03-21T16:41:53 IST" duration-ms="15951" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchFlipkart -->
+      </class> <!-- smokeTestCase.ToLaunchFlipkart_Test -->
+      <class name="smokeTestCase.ToLaunchAjio_Test">
+        <test-method signature="launchAjio()[pri:0, instance:smokeTestCase.ToLaunchAjio_Test@525f1e4e]" started-at="2024-03-21T16:41:18 IST" name="launchAjio" finished-at="2024-03-21T16:41:37 IST" duration-ms="19816" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchAjio -->
+      </class> <!-- smokeTestCase.ToLaunchAjio_Test -->
+      <class name="integrationTestCase.ToLaunchPurple_Test">
+        <test-method signature="LaunchPurple()[pri:0, instance:integrationTestCase.ToLaunchPurple_Test@275710fc]" started-at="2024-03-21T16:41:01 IST" name="LaunchPurple" finished-at="2024-03-21T16:41:18 IST" duration-ms="16932" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchPurple -->
+      </class> <!-- integrationTestCase.ToLaunchPurple_Test -->
+      <class name="integrationTestCase.ToLaunchMaybelin_Test">
+        <test-method signature="LaunchMaybelin()[pri:0, instance:integrationTestCase.ToLaunchMaybelin_Test@400cff1a]" started-at="2024-03-21T16:40:46 IST" name="LaunchMaybelin" finished-at="2024-03-21T16:41:01 IST" duration-ms="14843" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchMaybelin -->
+      </class> <!-- integrationTestCase.ToLaunchMaybelin_Test -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
